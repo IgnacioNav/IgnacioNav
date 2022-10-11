@@ -1,4 +1,4 @@
-# Hola! 🖐, Soy Mario Navarrete:
+# Hola! 🖐, Soy Ignacio Navarrete:
 Ingeniero Informático especializandose en el Desarrollo Front-End con lenguajes como: HTML, CSS y JavaScript.<br>
 
 Tecnologias y herramientas que he utilizado en algún proyecto: <br>
