@@ -44,3 +44,7 @@ Info: Buscador de autos aplicando distintos tipos de filtros, con validación en
 ![enviar email](https://user-images.githubusercontent.com/108555863/195250764-006cf6be-9649-4dcc-9898-d238ee2bbf52.png)
 <a href="https://ignacionav.github.io/py-form-email/">Link de la página web</a> <br>
 Info: Formulario de contacto, con validación de los campos, realizado con JavaScript, HTML y TailwindCSS <hr>
+
+![carrito de compra](https://user-images.githubusercontent.com/108555863/195251415-63edf8df-49fe-40a6-87c8-1311eb6d23d3.png)
+<a href="https://ignacionav.github.io/py-carrito/">Link de la página web</a> <br>
+Info: Carrito de compras realizado con JavaScript, manipulando el DOM, permite agregar articulos al carrito de compras, mostrando un total a pagar, permite eliminar un articulo por separado o vaciar completamente el carrito, realizado con JS, HTML, CSS<hr>
