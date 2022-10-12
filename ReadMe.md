@@ -37,4 +37,8 @@ Info: CRUD de CRM, realizado con IndexedDB, validación en los campos del formul
 <a href="https://ignacionav.github.io/py-Tweet-LocalStorage/">Link de la página web</a> <br>
 Info: Almacenar textos de tipo Tweet en LocalStorage, permite almacenar textos, validación de los campos, eliminar textos almacenados, realizado con JavaScript, HTML y CSS. <hr>
 
+![buscador de autos](https://user-images.githubusercontent.com/108555863/195249934-1a8688d0-595f-48e5-8de8-ff4583d2109e.png)
+<a href="https://ignacionav.github.io/py-buscador-autos/">Link de la página web</a> <br>
+Info: Buscador de autos aplicando distintos tipos de filtros, con validación en los campos. Se simula una base de datos con JavaScript, realizado con JS, HTML y CSS. <hr>
+
 
