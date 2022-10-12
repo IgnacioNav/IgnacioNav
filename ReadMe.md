@@ -19,10 +19,14 @@ Info: Blog de café realizado con HTML y CSS. <hr>
 
 ![cotizador-bitcoin](https://user-images.githubusercontent.com/108555863/195241887-4a8f034c-bd8d-4abf-8c20-4a3c294f749e.png)
 <a href="https://ignacionav.github.io/py-API-Criptomonedas/">Link de la página web</a> <br>
-Info: Cotizador de Criptomonedas, utilizando una API de Criptomonedas, empleando Async Await con JavaScript. Realizado con HTML, CSS y JavaScript. <hr>
+Info: Cotizador de Criptomonedas utilizando una API de Criptomonedas, empleando Async Await con JavaScript. Realizado con HTML, CSS y JavaScript. <hr>
 
 ![buscador-imagenes-api](https://user-images.githubusercontent.com/108555863/195243699-435b5c7f-433b-413a-9a2f-8bcf7a1d50b4.png)
 <a href="https://ignacionav.github.io/py-API-Imagenes/">Link de la página web</a> <br>
 Info: Buscador de imágenes utilizando una API de Pixabay, realizado con Fetch API, JavaScript, HTML y CSS. <hr>
+
+![clima](https://user-images.githubusercontent.com/108555863/195244326-be1a0dad-4099-4069-b648-b0280089268e.png)
+<a href="https://ignacionav.github.io/py-API-Clima/">Link de la página web</a> <br>
+Info: Consultar el clima utilizando una API, Realizado con Fetch API, JavaScript, HTML y CSS. <hr>
 
 
