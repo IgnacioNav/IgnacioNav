@@ -22,4 +22,7 @@ Info: Blog de café realizado con HTML y CSS. <hr>
 Info: Cotizador de Criptomonedas, utilizando una API de Criptomonedas, empleando Async Await con JavaScript. Realizado con HTML, CSS y JavaScript. <hr>
 
 
+<a href="https://ignacionav.github.io/py-API-Imagenes/">Link de la página web</a> <br>
+Info: Buscador de imágenes utilizando una API de Pixabay, realizado con Fetch API, JavaScript, HTML y CSS. <hr>
+
 
