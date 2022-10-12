@@ -29,4 +29,8 @@ Info: Buscador de imágenes utilizando una API de Pixabay, realizado con Fetch A
 <a href="https://ignacionav.github.io/py-API-Clima/">Link de la página web</a> <br>
 Info: Consultar el clima utilizando una API, Realizado con Fetch API, JavaScript, HTML y CSS. <hr>
 
+![crud-1](https://user-images.githubusercontent.com/108555863/195247716-19a7b8ee-f22b-485b-93a5-f44cba081f42.gif)
+<a href="https://ignacionav.github.io/py-AdministrarUsuarios/">Link de la página web</a> <br>
+Info: CRUD de CRM, realizado con IndexedDB, validación en los campos del formulario, JavaScript, HTML y CSS. <hr>
+
 
