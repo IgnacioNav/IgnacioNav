@@ -33,4 +33,8 @@ Info: Consultar el clima utilizando una API, Realizado con Fetch API, JavaScript
 <a href="https://ignacionav.github.io/py-AdministrarUsuarios/">Link de la página web</a> <br>
 Info: CRUD de CRM, realizado con IndexedDB, validación en los campos del formulario, JavaScript, HTML y CSS. <hr>
 
+![tweet](https://user-images.githubusercontent.com/108555863/195248728-59add277-364e-44e7-9914-0076aa0141da.png)
+<a href="https://ignacionav.github.io/py-Tweet-LocalStorage/">Link de la página web</a> <br>
+Info: Almacenar textos de tipo Tweet en LocalStorage, permite almacenar textos, validación de los campos, eliminar textos almacenados, realizado con JavaScript, HTML y CSS. <hr>
+
 
