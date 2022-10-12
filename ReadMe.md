@@ -14,4 +14,7 @@ Tecnologias y herramientas que he utilizado en algún proyecto: <br>
 # Páginas:
 
 ![blog-de-cafe](https://user-images.githubusercontent.com/108555863/195238387-b2df752b-0343-4cd9-9c17-8d18649d8c7f.png)
-https://ignacionav.github.io/py-blog-html-css/index.html
+<a href="https://ignacionav.github.io/py-blog-html-css/index.html">Link de la página web</a> <br>
+Info: Blog de café realizado con HTML y CSS. <hr>
+
+
