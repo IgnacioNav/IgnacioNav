@@ -18,3 +18,8 @@ Tecnologias y herramientas que he utilizado en algún proyecto: <br>
 Info: Blog de café realizado con HTML y CSS. <hr>
 
 
+<a href="https://ignacionav.github.io/py-API-Criptomonedas/">Link de la página web</a> <br>
+Info: Cotizador de Criptomonedas, utilizando una API de Criptomonedas, empleando Async Await con JavaScript. Realizado con HTML, CSS y JavaScript. <hr>
+
+
+
