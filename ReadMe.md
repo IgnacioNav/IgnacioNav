@@ -1,9 +1,9 @@
 # ¡Hola! 🖐 Soy Ignacio Navarrete:
-Ingeniero Informático especializandose en el Desarrollo Front-End con lenguajes como: HTML, CSS y JavaScript.<br>
+Ingeniero Informático especializandose en el Desarrollo Web.<br>
 
 Tecnologias y herramientas que he utilizado en algún proyecto: <br>
 ● Principalmente: HTML, CSS, JavaScript. <br>
-● PHP, MySQL, SASS, Gulp, Pug, TailwindCSS, Bootstrap. <br>
+● React, PHP, MySQL, SASS, Gulp, Pug, TailwindCSS, Bootstrap. <br>
 
 
 
