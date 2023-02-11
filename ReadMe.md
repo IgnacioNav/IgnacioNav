@@ -2,8 +2,8 @@
 Ingeniero Informático especializandose en el Desarrollo Web.<br>
 
 Tecnologias y herramientas que he utilizado en algún proyecto: <br>
-● Principalmente: HTML, CSS, JavaScript. <br>
-● React, PHP, MySQL, SASS, Gulp, Pug, TailwindCSS, Bootstrap. <br>
+● Principalmente: PHP, MySQL, HTML, CSS, JavaScript. <br>
+● Otros: React, Ajax, jQuery, Gulp, Pug, TailwindCSS, Bootstrap, Express, MongoDB, Node.js. <br>
 
 
 
