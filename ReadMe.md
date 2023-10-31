@@ -1,10 +1,10 @@
 # ¡Hola! 🖐 Soy Ignacio Navarrete, Desarrollador Web.<br>
-Me encuentro aprendiendo tecnologias para trabajar con PHP, manipulación básica de CodeIgniter y Laravel
+Cuento con conocimientos en PHP, CodeIgniter 3, MySQL, CSS, Bootstrap, JavaScript, jQuery y HTML
 
 # 💻 Tecnologías:
 Tecnologias y herramientas que he utilizado en algún proyecto: <br>
 ● Principalmente: PHP, MySQL, HTML, CSS, JavaScript. <br>
-● Otros: React, Ajax, jQuery, TailwindCSS, Bootstrap, Express, MongoDB, Node.js, CodeIgniter, Laravel <br>
+● Otros: React, Ajax, jQuery, TailwindCSS, Bootstrap, Express, MongoDB, Node.js, CodeIgniter <br>
 
 # Portafolio:
 
