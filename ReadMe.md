@@ -3,8 +3,8 @@ Cuento con conocimientos en PHP, CodeIgniter 3, MySQL, CSS, Bootstrap, JavaScrip
 
 # 💻 Tecnologías:
 Tecnologias y herramientas que he utilizado en algún proyecto: <br>
-● Principalmente: PHP, MySQL, HTML, CSS, JavaScript. <br>
-● Otros: React, Ajax, jQuery, TailwindCSS, Bootstrap, Express, MongoDB, Node.js, CodeIgniter <br>
+● Principalmente: PHP, MySQL, HTML, CSS, JavaScript, CodeIgniter 3, Bootstrap y jQuery. <br>
+● Otros: React, Ajax y TailwindCSS <br>
 
 # Portafolio:
 
